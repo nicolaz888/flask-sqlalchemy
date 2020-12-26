@@ -1,0 +1,11 @@
+Return a list of events in the DB
+---
+responses:
+    '200': # status code
+      description: A JSON array of users
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              type: string

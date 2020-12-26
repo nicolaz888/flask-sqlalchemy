@@ -1,0 +1,3 @@
+para añadir un modelo a la base de datos es necesario importar el nuevo modelo en app.py correrlo y luego ya se puede
+borrar el import gris del modelo
+
